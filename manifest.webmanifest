@@ -1,10 +1,11 @@
 {
+  "id": "/Spending-/",
   "name": "Spending",
   "short_name": "Spending",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/Spending-/",
+  "scope": "/Spending-/",
   "display": "standalone",
-  "background_color": "#0d1518",
+  "background_color": "#080808",
   "theme_color": "#0b8794",
   "icons": [
     {
